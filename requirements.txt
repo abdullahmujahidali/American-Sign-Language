@@ -1,6 +1,5 @@
 numpy==1.18.4
 opencv-python==4.2.0.34
-cupy-cuda101==7.4.0
 cycler==0.10.0
 fastrlock==0.4
 future==0.18.2
