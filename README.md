@@ -13,7 +13,7 @@ The application is developed using Python3, OpenCV and with concepts of Neural N
 Please consider following this project's author, [Abdullah Mujahid](https://github.com/abdullahmujahidali), and consider starring the project to show your :heart: and support.
 
 ## For live demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/-3JNnClKCFA)
+[![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/-3JNnClKCFA)
 
 
 ## Project Features.
