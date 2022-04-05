@@ -15,10 +15,11 @@ Please consider following this project's author, [Abdullah Mujahid](https://gith
 ## For live demo
 [![Watch the video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/-3JNnClKCFA)
 
+## For Dataset if I don't get back to you [Dataset & Model](https://drive.google.com/drive/folders/1ikgysXNd3pDgoBe-0xDhqsMi_asOyq1h?usp=sharing)
 
 ## Project Features.
 * Detects real time object and recognize which digit it is from 1 - 10 .
-* Detects number from a video from 1 - 5 digits.
+* Detects number from a video from 1 - 10 digits.
 
 
 ## Prerequisites
