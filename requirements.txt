@@ -1,4 +1,4 @@
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 cycler==0.10.0
 fastrlock==0.4
@@ -7,7 +7,7 @@ imageio==2.8.0
 joblib==0.14.1
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.4
+numpy==1.22.0
 opencv-python==4.2.0.34
 Pillow==8.3.2
 pynvrtc==9.2
